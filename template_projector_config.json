@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "FB15K237_TransE_100",
       "tensorShape": [
         14541,
         100
