@@ -3,8 +3,8 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        1000,
-        50
+        14541,
+        100
       ],
       "tensorPath": "https://raw.githubusercontent.com/mocho77/kge/master/transe_ent_embed.tsv",
       "metadataPath": "https://raw.githubusercontent.com/mocho77/kge/master/transe_ent_metadata.tsv"
